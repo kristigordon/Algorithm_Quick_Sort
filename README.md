@@ -1,4 +1,4 @@
-# Quick_Sort_Algorithm
+# Algorithm_Quick_Sort
 
 Next up is Quick sort. Since it uses pivot points, it is slightly more difficult but also much more efficient. 
 
